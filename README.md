@@ -1,6 +1,6 @@
 # Myanmar_Weather_News
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/8380a83e-a80d-4ecc-bdbb-0a967a650856)
 
 ![image](https://github.com/user-attachments/assets/f144c74b-c96d-4e3c-97c5-79a8a7d2d8cc)
 
