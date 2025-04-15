@@ -13,7 +13,7 @@ A real-time weather and earthquake information platform for Myanmar, providing l
 
 ![433768301-f144c74b-c96d-4e3c-97c5-79a8a7d2d8cc](https://github.com/user-attachments/assets/6a041be6-4d4c-4fbc-8dc5-15d4b8d5c618)
 
-The earthquake data and all about disaster news are updated every 6 hours. 
+The earthquake data and all about disaster news are updated every 6 hours MMT. 
 
 ![433768484-9e997b5f-94b8-425e-8988-4a00e8f627a5](https://github.com/user-attachments/assets/52e6fd09-a990-4eab-9432-34fe07cb2c3b)
 
