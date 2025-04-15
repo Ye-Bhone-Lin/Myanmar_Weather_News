@@ -1,0 +1,9 @@
+duckduckgo_search==5.3.1b1
+langchain_community
+langchain_groq
+langgraph
+pyowm
+setuptools
+streamlit
+streamlit_folium
+folium
