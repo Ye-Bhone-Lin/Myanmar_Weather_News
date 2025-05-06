@@ -23,7 +23,7 @@ If the output includes the locations, we can clearly see where the earthquakes o
 
 You can ask weather conditions in Weather Forecasts session.
 
-### https://myanmar-weather-news.streamlit.app/ (You can test it here)
+### [https://myanmar-weather-news.streamlit.app/](https://myanmar-weather-news.streamlit.app/Get_Weather_News) (You can test it here)
 ## 📋 Table of Contents
 
 - [Installation](#installation)
