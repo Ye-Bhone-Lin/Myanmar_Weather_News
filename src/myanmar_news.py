@@ -5,11 +5,13 @@ import warnings
 from langchain_community.tools import DuckDuckGoSearchRun
 from langchain_community.utilities import OpenWeatherMapAPIWrapper
 from langgraph.prebuilt import create_react_agent
+import streamlit as st 
+
+st.secrets['OPENWEATHERMAP_API_KEY']
 
 load_dotenv()
 
 class MyanmarNews:
-    
     @classmethod
     def get_news(cls, user_input:str):
     

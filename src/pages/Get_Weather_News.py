@@ -7,6 +7,7 @@ import folium
 import pydeck as pdk
 import pandas as pd
 
+st.secrets['GROQ_API_KEY']
 weather_news, weather_forecast = st.tabs(["Weather News",'Weather Forecast'])
 
 with weather_news:

@@ -1,14 +1,8 @@
-# /// script
-# requires-python = ">=3.9"
-# dependencies = []
-# ///
-
 import streamlit as st
-import pydeck as pdk
+
 
 st.markdown("<h1 style='text-align: center;'>Myanmar Weather News</h1>", unsafe_allow_html=True)
 
-# Custom styles
 st.markdown(
     """
     <style>
@@ -53,6 +47,5 @@ st.markdown(
 )
 
 st.markdown("<p style='text-align: center; margin-top: 3rem;'>Welcome to the live weather update center. Stay informed with the latest conditions and alerts across Myanmar.</p>", unsafe_allow_html=True)
-
 
 
