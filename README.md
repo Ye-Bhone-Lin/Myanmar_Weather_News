@@ -34,6 +34,16 @@ Clean, accessible design for all users.
 
 ### Demonstration
 
+![image](https://github.com/user-attachments/assets/85910d73-5fdd-4f58-8756-e3cb0fd86982)
+We can also see at location.
+
+![image](https://github.com/user-attachments/assets/6368033b-5219-43ed-873c-2ed49cb3e9f0)
+You can also ask the weather conditions.
+
+![image](https://github.com/user-attachments/assets/d81f9054-3e7c-49c7-bfe7-fde45f10048e)
+The weather news announce every 6 hours.
+
+### Here is the link to test: https://myanmar-weather-news.streamlit.app/
 ### 🛠 Tech Stack
 
 - Python
@@ -45,5 +55,5 @@ Clean, accessible design for all users.
 
 ### API Keys
 
-- OpenWeatherMap:
-- Groq (optional):
+- OpenWeatherMap
+- Groq (optional)
